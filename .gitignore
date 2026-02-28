@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+.vscode/
+*.pdf
+test_setup.py
+titanic.csv
